@@ -15,3 +15,7 @@
 
 ### Goal: 
 #### Scrape your own data from a job aggregation tool like Indeed.com in order to collect the data to best answer these two questions.
+
+
+### Directions
+#### In this project you will be leveraging a variety of skills. The first will be to use the web-scraping and/or API techniques you've learned to collect data on data jobs from Indeed.com or another aggregator. Once you have collected and cleaned the data, you will use it to answer the two questions described above.
